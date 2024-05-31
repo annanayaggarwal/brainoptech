@@ -1,0 +1,129 @@
+[
+   {
+    "title": "Bitcoin Blog",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEXMJGBsFFH6Vi_dryk7iRDv0oSQ13yIKpBCWR_UiIg1Qs_oWZOaMCiO-esv0&s",
+    "category": "Cryptocurrency",
+    "author": "John Doe",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+},
+{
+    "title": "Ethereum Blog",
+    "image": "https://miro.medium.com/v2/resize:fit:1140/0*6RUQ8I9pFl7E6s1G.png",
+    "category": "Blockchain",
+    "author": "Jane Smith",
+    "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+},
+{
+    "title": "NFT Blog",
+    "image": "https://nft.com/wp-content/uploads/2023/03/nft-blog-image3.jpg",
+    "category": "Digital Art",
+    "author": "Michael Johnson",
+    "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+},
+{
+    "title": "DeFi Blog",
+    "image": "https://mlnhzxsbmzjn.i.optimole.com/w:auto/h:auto/q:mauto/f:avif/https://de.fi/blog/wp-content/uploads/2023/07/defi-blog-hero.png",
+    "category": "Finance",
+    "author": "Emily Brown",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+},
+{
+    "title": "Blockchain Blog",
+    "image": "https://www.flexsin.com/blog/wp-content/uploads/2018/12/Blockchain-Technology.jpg",
+    "category": "Technology",
+    "author": "Chris Johnson",
+    "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+},
+{
+    "title": "Crypto Regulations Blog",
+    "image": "https://zebpay.com/in/wp-content/uploads/2021/09/Vikrant-Graphics-22.png",
+    "category": "Legal",
+    "author": "Sophia Lee",
+    "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+},
+{
+    "title": "Smart Contracts Blog",
+    "image": "https://www.visartech.com/static/2d6e59c750a9f22100d69bcc9ef4cf38/69b48/The-Benefits-of-Smart-Contracts.jpg",
+    "category": "Development",
+    "author": "David Clark",
+    "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit."
+},
+{
+    "title": "Decentralized Finance Blog",
+    "image": "https://kratikal.com/blog/wp-content/uploads/2022/11/defi_banner.jpg",
+    "category": "Finance",
+    "author": "Rachel Garcia",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+},
+{
+    "title": "Cryptocurrency Adoption Blog",
+    "image": "https://letsexchange.io/content/images/2023/10/Countries-with-the-highest-crypto-adoption-level.png",
+    "category": "Finance",
+    "author": "Matthew Turner",
+    "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam."
+},
+{
+    "title": "Web3 Technologies Blog",
+    "image": "https://blog.quicknode.com/content/images/2023/03/the-simplified-web3-tech-stack-quicknode.png",
+    "category": "Technology",
+    "author": "Emma Wilson",
+    "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+},
+{
+    "title": "Digital Asset Management Blog",
+    "image": "https://www.credencys.com/wp-content/uploads/2021/06/Digital-Asset-Management-In-2021-%E2%80%93-All-You-Need-To-Know.jpg",
+    "category": "Finance",
+    "author": "Ryan Martinez",
+    "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi."
+},
+{
+    "title": "Tokenization Blog",
+    "image": "https://kratikal.com/blog/wp-content/uploads/2022/01/blog-post-4-1-scaled.jpg",
+    "category": "Finance",
+    "author": "Olivia Adams",
+    "content": "Et harum quidem rerum facilis est et expedita distinctio."
+},
+{
+    "title": "Decentralized Identity Blog",
+    "image": "https://bloom.co/blog/content/images/2021/12/DeIden_BlogHero.png",
+    "category": "Technology",
+    "author": "Daniel White",
+    "content": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus."
+},
+{
+    "title": "Blockchain Governance Blog",
+    "image": "https://blog.bitfinex.com/wp-content/uploads/2023/09/bfx_blockchain_governance-1.png",
+    "category": "Technology",
+    "author": "Isabella Brown",
+    "content": "Omnis voluptas assumenda est, omnis dolor repellendus."
+},
+{
+    "title": "Stablecoins Blog",
+    "image": "https://mars-images.imgix.net/1662110064663?auto=compress",
+    "category": "Finance",
+    "author": "Lucas Wright",
+    "content": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae."
+},
+{
+    "title": "Privacy in Blockchain Blog",
+    "image": "https://alephzero.org/blog/app/uploads/2021/10/A0_blog_Privacy_Main-1000x496.jpg",
+    "category": "Technology",
+    "author": "Ava Johnson",
+    "content": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis volupt"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+]
